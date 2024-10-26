@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CJ's website</title>
+<title>CJ's Socials</title>
 </head>
 <body>
 
